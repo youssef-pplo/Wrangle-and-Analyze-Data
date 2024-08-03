@@ -12,11 +12,11 @@ This project focuses on data wrangling, analysis, and visualization using a data
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/youssef-pplo/Wrangle-and-Analyze-Data.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd Wrangle-and-Analyze-Data
    ```
 
 
